@@ -1,5 +1,5 @@
 module.exports = {
-    HELP_MENU_TITLE: 'Hilfe-Menü',
+    HELP_MENU_TITLE: 'Hilfe Menü',
     COMMAND_CATEGORY_GENERAL: 'Allgemeine Befehle',
     COMMAND_CATEGORY_DEVELOPER: 'Entwickler Befehle',
     COMMAND_CATEGORY_OWNER: 'Eigentümer Befehle',
@@ -52,8 +52,8 @@ module.exports = {
     IN_1_DAY: 'in 1 Tag',
     IN_1_WEEK: 'in 1 Woche',
     REMINDER_SET: 'Die Erinnerung wurde erfolgreich auf {{0}} gesetzt! Stelle sicher, dass ich dir Nachrichten schicken kann!',
-    MESSAGE_REMINDERS: 'Nachrichten Erinnerungen',
-    NO_MESSAGE_REMINDERS: 'Es gibt keine Erinnerungen!\n**PROTIP:** Es kann jede Nachricht als Erinnerung markiert werden, damit sie hier erscheint.',
+    MESSAGE_REMINDERS: 'Erinnerungen',
+    NO_MESSAGE_REMINDERS: 'Es gibt keine Erinnerungen!\n**TIP:** Es kann jede Nachricht als Erinnerung markiert werden, damit sie hier erscheint.',
     MESSAGE_REMINDER_CANCELLED: 'Die Erinnerungsnachricht wurde erfolgreich gelöscht!',
     NO_CONTENT: 'Kein Inhalt',
     REMINDER_ATTACHMENTS_NOT_SUPPORTED: 'Derzeit werden Anhänge für Nachrichtenerinnerungen nicht unterstützt!',
